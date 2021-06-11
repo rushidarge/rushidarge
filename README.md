@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on AutoML Liberaries DIY
-- 📫 How to reach me @rushidarge on IG
+- 📫 to reach me @rushidarge on IG
 
 <!---
 rushidarge/rushidarge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
