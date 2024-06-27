@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rushidarge
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently working as Data Scientist
 - 📫 to reach me @rushidarge on LinkedIn
 
 <!---
