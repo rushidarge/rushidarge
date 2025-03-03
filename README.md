@@ -1,5 +1,5 @@
 # Hi there 👋 
-I'm **Rushikesh Darge**, a passionate data scientist with 3 years of experience, I have actively engaged in diverse project endeavors spanning the entire data lifecycle, from meticulous data collection to seamless deployment. My expertise lies in harnessing the power of cutting-edge deep learning and machine learning models or technologies to solve complex business problems with precision and innovation. 
+I'm **Rushikesh Darge**, a passionate data scientist with 4 years of experience, I have actively engaged in diverse project endeavors spanning the entire data lifecycle, from meticulous data collection to seamless deployment. My expertise lies in harnessing the power of cutting-edge deep learning and machine learning models or technologies to solve complex business problems with precision and innovation. 
 
 
 
